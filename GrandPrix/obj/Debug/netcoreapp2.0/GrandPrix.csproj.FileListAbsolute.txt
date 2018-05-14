@@ -1,0 +1,11 @@
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.deps.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.runtimeconfig.dev.json
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\bin\Debug\netcoreapp2.0\GrandPrix.pdb
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csprojResolveAssemblyReference.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.csproj.CoreCompileInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfoInputs.cache
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.AssemblyInfo.cs
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.dll
+F:\Visual Project\C# Fundamentals\C# OOP Basics\14.ExamPreperationTwo\GrandPrix\obj\Debug\netcoreapp2.0\GrandPrix.pdb
